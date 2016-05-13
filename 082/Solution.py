@@ -1,3 +1,5 @@
+import ListNode
+
 class Solution(object):
     def deleteDuplicates(self, head):
         result = tail = ListNode(None)
